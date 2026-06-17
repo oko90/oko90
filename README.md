@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Adeniran Ayomide Adewunmi
+# Hi there 👋, I'm Adeniran Ayomide Opeyemi
 
 ## Front-End Developer & Graphic Designer
 
