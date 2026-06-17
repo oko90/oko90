@@ -33,17 +33,34 @@ June 2025 – November 2025
 * Improved website performance and usability
 * Collaborated on web design implementation
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-#### Temmy World Graphics
+### 🌐 Personal Portfolio Website
 
-A responsive website developed using HTML, CSS, and JavaScript.
+A responsive portfolio website showcasing my skills, projects, experience, and graphic design work.
 
-🔗 Live Demo: https://temmyworldgraphics.netlify.app
+**Technologies:** HTML, CSS, JavaScript
 
-#### Personal Portfolio Website
+---
 
-A portfolio website showcasing my skills, projects, and professional experience.
+### 🎨 Temmy World Graphics
+
+A responsive business website developed for a graphic design brand. The website showcases services, portfolio projects, and contact information with a modern user interface.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 Live Demo: https://temmyworldgraphic.netlify.app
+
+---
+
+### 👗 Empress Luxury – Fashion E-Commerce Landing Page
+
+A luxury black-and-gold fashion e-commerce landing page developed for a premium clothing brand. The project features responsive layouts, product showcases, customer testimonials, interactive UI components, and a modern luxury aesthetic.
+
+**Technologies:** HTML5, CSS3, JavaScript, Responsive Web Design
+
+🔗 Live Demo: https://empressluxury.netlify.app
+
 
 ### 📫 Connect With Me
 
